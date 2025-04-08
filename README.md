@@ -1,8 +1,8 @@
 # 🔥 Rank UW-Madison CS Majors - Who's More Cracked?
 
-An interactive website inspired by the "Who's More Cracked?" UIUC site, built to **anonymously rank UW-Madison CS majors** based on their LinkedIn experience and education using an **ELO-based** ranking system.
+An interactive website built to **anonymously rank UW-Madison CS majors** based on their LinkedIn experience and education using an **ELO-based** ranking system.
 
-<img src="https://your-screenshot-link.com/demo.png" alt="Demo Screenshot" width="600" />
+<img src="BLANK" alt="Demo Screenshot" width="600" />
 
 ---
 
